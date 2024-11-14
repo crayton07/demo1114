@@ -73,6 +73,9 @@ $stmt = $pdo->query($sql);
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <h1>
+        This is just a random edit
+    </h1>
     <!-- Hero Section -->
     <div class="hero-section">
         <h1 class="hero-title">Betty's Book Banning and Bridge Building</h1>
